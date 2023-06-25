@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\vansh\onedrive\documents\c++ proj\lessons2\main.cpp
+	<iostream>
+
+1636711241 source:c:\users\vansh\onedrive\documents\c++ proj\lessons2\logic.c
+	<stdio.h>
+
+1636700735 source:c:\users\vansh\onedrive\documents\c++ proj\lessons2\mul_user_inp.c
+	<stdio.h>
+
+1639210143 source:c:\users\vansh\onedrive\documents\c++ proj\lessons2\precision.c
+	<stdio.h>
+
+1636711236 source:c:\users\vansh\onedrive\documents\c++ proj\lessons2\print_logic.c
+	<stdio.h>
+
+1636711543 source:c:\users\vansh\onedrive\documents\c++ proj\lessons2\relation.c
+	<stdio.h>
+
+1636712704 source:c:\users\vansh\onedrive\documents\c++ proj\lessons2\relation_print.c
+	<stdio.h>
+

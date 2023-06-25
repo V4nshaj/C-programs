@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1646098846 source:c:\users\vansh\onedrive\documents\c++ proj\random_number\random_number.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1646098298 source:c:\users\vansh\onedrive\documents\c++ proj\random_number\main.c
+	<stdio.h>
+	<stdlib.h>
+

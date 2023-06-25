@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1643938463 source:c:\users\vansh\onedrive\documents\c++ proj\array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1643939041 source:c:\users\vansh\onedrive\documents\c++ proj\array\initialization.c
+	<stdio.h>
+	<stdlib.h>
+
+1644887814 source:c:\users\vansh\onedrive\documents\c++ proj\array\length_of_strng.c
+	<stdio.h>
+	<stdlib.h>
+
+1645281086 source:c:\users\vansh\onedrive\documents\c++ proj\array\length_of_array.c
+	<stdio.h>
+	<stdlib.h>
+
+1645282492 source:c:\users\vansh\onedrive\documents\c++ proj\array\shorted_array.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1645283155 source:c:\users\vansh\onedrive\documents\c++ proj\array2\main.c
+	<stdlib.h>
+
+1645283417 source:c:\users\vansh\onedrive\documents\c++ proj\array2\search.c
+	<stdio.h>
+	<stdlib.h>
+

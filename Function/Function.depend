@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1646013433 source:c:\users\vansh\onedrive\documents\c++ proj\function\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1646013400 source:c:\users\vansh\onedrive\documents\c++ proj\function\intro.c
+
+1646014963 source:c:\users\vansh\onedrive\documents\c++ proj\function\sum.c
+	<stdio.h>
+
+1646015092 source:c:\users\vansh\onedrive\documents\c++ proj\function\call_by_val.c
+	<stdio.h>
+
+1646015858 source:c:\users\vansh\onedrive\documents\c++ proj\function\call_by_reference.c
+	<stdio.h>
+
+1646015886 source:c:\users\vansh\onedrive\documents\c++ proj\function\recursion.c
+	<stdio.h>
+

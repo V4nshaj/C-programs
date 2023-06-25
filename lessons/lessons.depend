@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1636220200 source:c:\users\vansh\onedrive\documents\c++ proj\lessons\main.cpp
+	<stdio.h>
+
+1636222070 source:c:\users\vansh\onedrive\documents\c++ proj\lessons\print.cpp
+
+1636222024 source:c:\users\vansh\onedrive\documents\c++ proj\lessons\putprint.cpp
+
+1636221949 source:c:\users\vansh\onedrive\documents\c++ proj\lessons\variable_&_inp.cpp
+	<stdio.h>
+

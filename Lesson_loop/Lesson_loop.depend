@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1640484895 source:c:\users\vansh\onedrive\documents\c++ proj\lesson_loop\for_loop.c
+
+1640483645 source:c:\users\vansh\onedrive\documents\c++ proj\lesson_loop\main.c
+	<stdlib.h>
+
+1640485469 source:c:\users\vansh\onedrive\documents\c++ proj\lesson_loop\sum_of_no.c
+
+1640507724 source:c:\users\vansh\onedrive\documents\c++ proj\lesson_loop\even_odd_sum.c
+
+1640507813 source:c:\users\vansh\onedrive\documents\c++ proj\lesson_loop\while_mul.c
+	<stdio.h>
+
+1640509389 source:c:\users\vansh\onedrive\documents\c++ proj\lesson_loop\count_inf.c
+	<stdio.h>
+
+1640509369 source:c:\users\vansh\onedrive\documents\c++ proj\lesson_loop\do_sum_of_no_while.c
+
+1640509887 source:c:\users\vansh\onedrive\documents\c++ proj\lesson_loop\tot.c
+	<stdio.h>
+

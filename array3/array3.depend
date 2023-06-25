@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1645495928 source:c:\users\vansh\onedrive\documents\c++ proj\array3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1645496817 source:c:\users\vansh\onedrive\documents\c++ proj\array3\multi_array_initial.c
+	<stdio.h>
+	<stdlib.h>
+
+1645496804 source:c:\users\vansh\onedrive\documents\c++ proj\array3\multi_dimen_array.c
+	<stdio.h>
+	<stdlib.h>
+
