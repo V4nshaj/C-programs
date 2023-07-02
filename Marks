@@ -1,0 +1,19 @@
+#include<stdio.h>
+
+int main()
+{
+    int physics, chem, math;
+    float tot;
+    printf("Enter marks for physics: ");
+    scanf("%d", &physics);
+    printf("Enter marks for chemestry: ");
+    scanf("%d", &chem);
+    printf("Enter marks for maths: ");
+    scanf("%d", &math);
+    tot=(physics+chem+math)/3;
+    if(tot>40 && chem>33 && physics>33 && math>33)
+    printf("U passed with : %f %", tot);
+    else
+    printf("U hav failed: %f %",tot);
+    return 0;
+}
