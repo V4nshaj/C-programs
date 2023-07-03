@@ -1,4 +1,5 @@
-/*#include <stdio.h>
+
+#include <stdio.h>
 int main()
 {
     int n,s=0;
@@ -11,4 +12,3 @@ int main()
         printf("Above sum = %d\n", s);
     return 0;
 }
-*/
