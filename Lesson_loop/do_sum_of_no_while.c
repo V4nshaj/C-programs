@@ -1,4 +1,4 @@
-
+/*Sum of no.s using do while*/
 #include <stdio.h>
 int main()
 {
