@@ -1,5 +1,5 @@
 //puts() and printf diff
-/*#include<stdio.h>
+#include<stdio.h>
 int main()
 {
     printf("Hello");
@@ -7,5 +7,5 @@ int main()
     puts("Hello");//puts line feed i.e \n means next line automatically
     puts("There");
     return 0;
-}*/
+}
 
