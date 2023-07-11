@@ -3,7 +3,7 @@ OBJ.: Enter the detail of students such as name, e-mail, marks of 3 subjects
 */
 #include <stdio.h>
 #include <string.h>
-struct student
+struct student//structure of student
 {
     char name[20];
     char mail[20];
