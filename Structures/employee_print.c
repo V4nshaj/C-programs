@@ -2,7 +2,7 @@
 OBJ.: Enter the detail of 5 employees such as name, id, experience, salary and print them*/
 #include <stdio.h>
 #include <string.h>
-struct employee
+struct employee//structure
 {
     char name[40];
     int id;
